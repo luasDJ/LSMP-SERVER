@@ -1,1 +1,4 @@
 # LSMP-SERVER
+
+CREADO Y HECHO POR
+Lucas Sánchez 
